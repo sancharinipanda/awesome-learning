@@ -196,6 +196,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Python Programming Exercises](https://inventwithpython.com/pythongently/)
 - [The right way to install Python on a Mac](https://medium.com/marvelous-mlops/the-rightway-to-install-python-on-a-mac-f3146d9d9a32)
 - [What is Polymorphism in Python? Explained with an Example](https://www.freecodecamp.org/news/what-is-polymorphism-in-python-example/)
+- [Learn Python - Coddy (free interactive course)](https://coddy.tech/landing/python)
 
 </details>
 
@@ -805,6 +806,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Keploy VS Code Extension](https://marketplace.visualstudio.com/items?itemName=Keploy.keployio)
 - [Keploy PR Agent/App](https://github.com/apps/keploy)
 - [API Testing using Keploy](https://keploy.io/api-testing)
+- [Keploy API Test Recorder (Chrome Extension)](https://keploy.io/docs/running-keploy/api-testing-chrome-extension/)
+- [Mock Your Own Tests with Keploy (pytest, go test, jest)](https://keploy.io/docs/running-keploy/mock-your-tests/)
 
 </details>
 
@@ -883,6 +886,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Data Driven API Testing in Playwright TypeScript: Part 2](https://levelup.gitconnected.com/data-driven-api-testing-in-playwright-typescript-part-2-5d6e84f5da45)
 - [Data-Driven Testing in Playwright TypeScript with CSV Files](https://medium.com/@iamfaisalkhatri/data-driven-testing-in-playwright-typescript-with-csv-files-64158724dbb8?sharedUserId=iamfaisalkhatri)
 - [End-to-End API Testing with Playwright TypeScript](https://medium.com/@iamfaisalkhatri/end-to-end-api-testing-with-playwright-typescript-cfd63fdff7fa)
+- [Playwright API Testing: A Complete Guide (2026)](https://keploy.io/blog/community/playwright-api-testing)
 
 
 </details>
@@ -1023,6 +1027,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Mobile App Testing Tutorial: A Comprehensive Guide With Examples and Best Practices](https://www.testmuai.com/learning-hub/mobile-app-testing)
 - [Mobile Application Testing using Automation frameworks](https://www.browserstack.com/guide/mobile-application-testing-frameworks)
 - [How to Choose Mobile Devices for Testing ?](https://medium.com/@iamfaisalkhatri/how-to-choose-mobile-devices-for-testing-pcloudy-blog-96179529d0f3)
+- [Test your Android app with an AI agent](https://phonebox.dev/guides/test-android-app-with-ai)
 </details>
 
 <details>
